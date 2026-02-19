@@ -24,4 +24,5 @@ Une version image PNG et une version PDF sont également fournies.
 Fond inspiré du Template : https://slidesgo.com/theme/ready-for-christmas
 
 Assa Fonts : https://fontmeme.com/polices/police-assa/
+
 KG Everywhere Everything : https://fontmeme.com/polices/police-kg-everywhere-everything/
