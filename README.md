@@ -13,8 +13,6 @@ Polices utilisées : "Assa fonts" et "KG Everywhere Everything" - voir la sectio
 # Pour modifier l'affiche
 Ouvrir le fichier source (APEL-2025-2026-vente_jacinthes.docx) avec Word. Les polices sont incluses dans le fichier source.
 
-Pour une question pratique, je les ajoute également sur ce dépôt.
-
 Respectez les crédits (slidesgo et les polices).
 
 # Suppléments
